@@ -8,9 +8,13 @@
 
 ### Who We Serve 🌍
 
+- Entrepreneurs & Small/Local Businesses
+- Artisans & Creatives
+- Retailers
+
 ---
 
-## Why We Exist 💡
+## Why MerchAPI Exists 💡
 
 ### The Challenges We Address ⚠️
 
@@ -18,7 +22,7 @@
 
 ---
 
-## How We Operate ⚙️
+## How MerchAPI Operates ⚙️
 
 ### Our Workflow 🔄
 
