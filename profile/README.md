@@ -1,6 +1,10 @@
 # Welcome to MerchAPI 🌟
 
+[![Back-end](https://skillicons.dev/icons?i=python,django,postgres,redis,postman)](https://skillicons.dev)
+
 ## Overview 📋
+
+APIs for online stores. Developed with Django & DRF, it manages products, orders, and inventory with front-end agnosticism.
 
 ---
 
