@@ -6,7 +6,7 @@
 
 ## What We Build at MerchAPI 🛠️
 
-**MerchAPI** builds powerful, scalable and customzibable **APIs for online stores**, managing products, inventory, orders, and user interactions. **MerchAPI** is front-end agnostic, allowing seamless integration with any front-end framework or technology.
+**MerchAPI** offers powerful and scalable **APIs** for building **online stores**. Designed with flexibility in mind, it manages **products**, **inventory**, **orders**, and **user interactions** while remaining **front-end agnostic**, enabling seamless integration with any front-end framework or technology.  
 
 ### Who We Serve 🌍
 
